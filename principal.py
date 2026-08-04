@@ -1,4 +1,4 @@
 def main():
-    print("Igor Barros")
+    print("prog2")
 
 main()
